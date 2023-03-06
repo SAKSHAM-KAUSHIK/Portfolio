@@ -8,7 +8,7 @@ function Contact() {
         <div className="SectionTitle">Get In Touch</div>
         <div className="BigCard">
           <Email>
-            <span style={{fontSize:"1.8rem"}}>staywithsaksham@gmail.com</span>
+            <span >staywithsaksham@gmail.com</span>
             <a
               className="btn ContactBtn"
               href="mailto:staywithsaksham@gmail.com"

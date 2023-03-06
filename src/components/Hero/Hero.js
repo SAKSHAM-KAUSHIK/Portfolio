@@ -41,7 +41,7 @@ function Hero() {
   }}
       /></h5>
             <p>
-              I develop and code beautifully simple things, and I love what I do.
+              I love programming beacuse it made the impossible possible. <br></br>You can have a null object and a constant variable.
             </p>
           </HeroLeft>
           <HeroRight>

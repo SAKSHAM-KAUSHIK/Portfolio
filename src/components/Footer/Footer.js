@@ -12,7 +12,7 @@ const FooterSection = styled.div`
   span {
     position: absolute;
     bottom: 4rem;
-    left: 8rem;
+    left: 6rem;
     color: #fff;
 
     a {

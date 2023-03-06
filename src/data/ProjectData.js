@@ -1,5 +1,5 @@
 // -------------------------------------- Resume Link
-export const ResumeLink = "https://drive.google.com/file/d/17WlPeSqsxmSLu22UiR65cTw06GpwG6pQ/view?usp=sharing";
+export const ResumeLink = "https://drive.google.com/file/d/1lqxCDw9XOMrx2VMt77MkexSzvhuO76qq/view?usp=sharing";
 
 // --------------------------------------- Project List
 export const ProjectList = [
@@ -26,8 +26,8 @@ export const ProjectList = [
     title: "Notetastic",
     description: "Created responsive front-end for Notes keeping App. Notes are added and can be deleted and are retained even after reload using local storage.",
     tech_stack: "ReactJS, Javascript ES6, Material UI ",
-    github_url: "https://your_project_github_link",
-    demo_url: "https://your_project_demo_link",
+    github_url: "https://github.com/SAKSHAM-KAUSHIK/Notetastic",
+    demo_url: "https://saksham-kaushik.github.io/Notetastic/",
   },
   {
     img: "https://i.ibb.co/5TJMc0n/Black-and-White-Photographic-Accounting-Service-Website.png",
@@ -43,8 +43,8 @@ export const ProjectList = [
     title: "Portfolio",
     description: "And yes, I made my own personal portfolio website too.",
     tech_stack: "ReactJS, CSS",
-    github_url: "https://your_project_github_link",
-    demo_url: "/",
+    github_url: "https://github.com/SAKSHAM-KAUSHIK/React-Portfolio",
+    demo_url: "https://saksham-kaushik.github.io/React-Portfolio/",
   },
 
 ];

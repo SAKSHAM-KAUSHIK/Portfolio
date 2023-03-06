@@ -54,7 +54,7 @@ function FixSocialIcon() {
         </li>
         <li className="item">
           <a
-            href="https://github.com/your_username/"
+            href="https://saksham-kaushik.github.io/React-Portfolio/"
             target="_blank"
             rel="noopener noreferrer"
           >
