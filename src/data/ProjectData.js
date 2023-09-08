@@ -1,5 +1,5 @@
 // -------------------------------------- Resume Link
-export const ResumeLink = "https://drive.google.com/file/d/1lqxCDw9XOMrx2VMt77MkexSzvhuO76qq/view?usp=sharing";
+export const ResumeLink = "https://drive.google.com/file/d/1f1HxoM3k-s4CIKaHEgVp2A88O61V5sM_/view?usp=sharing";
 
 // --------------------------------------- Project List
 export const ProjectList = [
